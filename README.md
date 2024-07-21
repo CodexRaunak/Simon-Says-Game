@@ -15,8 +15,9 @@
 
 ## Installation
 - **Clone the repository**
+  ```bash
    git clone https://github.com/yourusername/simon-says-game.git
-
+   ```
 - **Open index.html**
     Enjoy the game
    
